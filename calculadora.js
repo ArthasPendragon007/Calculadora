@@ -13,3 +13,5 @@ console.log(dividir(8, 2));
 
 var media = require("./modulos/media");
 console.log(media(7, 7));
+
+//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
